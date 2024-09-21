@@ -1,2 +1,2 @@
-https://upload.wikimedia.org/wikipedia/pt/6/60/+SBT_2024.svg
-Assista seus programas favoritos aqui. ❤️🤩
+https://upload.wikimedia.org/wikipedia/commons/b/b0/Globoplay_logo_2020.svg
+O streaming que é uma gracinha 😘
