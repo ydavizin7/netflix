@@ -2,71 +2,85 @@
 ===============================================
 https://www.mfcopenapi.info/open/api/playlist/videos/v1
 =====================(+ Filmes)==========================
-#EXTINF:-1 tvg-id="Valente (2012)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKkkcxeZOBFWHAUifWlkkRKA4L2zwbXhGKs0wo5aHf-aalvyF9Pd0STs&s=10.png"group-title="Animação",Valente (2012)
+#EXTINF:-1 tvg-id="Valente (2012)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKkkcxeZOBFWHAUifWlkkRKA4L2zwbXhGKs0wo5aHf-aalvyF9Pd0STs&s=10.png"group-title="+Animação",Valente (2012)
 https://tinyurl.com/5n99b96h
 ======================(+Series)=========================
-#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="Series | Solar Opposites",Solar Opposites
+#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="+Series | Solar Opposites",Solar Opposites
 https://tinyurl.com/s4yjn986
-#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="Series | Solar Opposites",Solar Opposites EP 2
+#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="+Series | Solar Opposites",Solar Opposites EP 2
 https://tinyurl.com/2c258fkv
-#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="Series | Solar Opposites",Solar Opposites EP 3
+#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="+Series | Solar Opposites",Solar Opposites EP 3
 https://tinyurl.com/pabfu5xw
-#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="Series | Solar Opposites",Solar Opposites EP 4
+#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="+Series | Solar Opposites",Solar Opposites EP 4
 https://tinyurl.com/48zr9rjh
-#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="Series | Solar Opposites",Solar Opposites EP 5
+#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="+Series | Solar Opposites",Solar Opposites EP 5
 https://tinyurl.com/2pbwpezy
-#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="Series | Solar Opposites",Solar Opposites EP 6
+#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="+Series | Solar Opposites",Solar Opposites EP 6
 https://tinyurl.com/4pvpfek9
-#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="Series | Solar Opposites",Solar Opposites EP 7
+#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="+Series | Solar Opposites",Solar Opposites EP 7
 https://tinyurl.com/3ruwfy5w
-#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="Series | Solar Opposites",Solar Opposites EP 8
+#EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="+Series | Solar Opposites",Solar Opposites EP 8
 https://tinyurl.com/yy376xrr
 ==============================================
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros
 https://tinyurl.com/6tcpw2mw
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 2
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 2
 https://tinyurl.com/zjkzyeyu
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 3
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 3
 https://tinyurl.com/bdhjwema
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 4
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 4
 https://tinyurl.com/v5x7uka8
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 5
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 5
 https://tinyurl.com/3y9vnukk
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 6
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 6
 https://tinyurl.com/3y9vnukk
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 7
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 7
 https://tinyurl.com/4sr85fau
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 8
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 8
 https://tinyurl.com/45zpfzwu
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 9
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 9
 https://tinyurl.com/5n7bfa7x
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 10
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 10
 https://tinyurl.com/ytsnt3rs
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 11
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 11
 https://tinyurl.com/4xpux4t4
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 12
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 12
 https://tinyurl.com/2e2mpw8k
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 13 (² Temporada)
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 13 (² Temporada)
 https://tinyurl.com/rcey2v85
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 14
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 14
 https://tinyurl.com/5ef5n6f6
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 15
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 15
 https://tinyurl.com/2kpmzv6x
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 16
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 16
 https://tinyurl.com/yxmxknvj
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 17
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 17
 https://tinyurl.com/24dxmkvw
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 18
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 18
 https://tinyurl.com/bdhw93mk
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 19
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 19
 https://tinyurl.com/3wf2x84p
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 20
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 20
 https://tinyurl.com/3ny2s5n4
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 21
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="+Series | Os Outros",Os Outros EP 21
 https://tinyurl.com/463ydjp6
 ===================="+Novelas"==================
-#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você
 https://tinyurl.com/4nxenwd9
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 2
+https://tinyurl.com/3nkmebwm
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 3
+https://tinyurl.com/2mmpbhkn
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 4
+https://tinyurl.com/4nspt5ew
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 5
+https://tinyurl.com/2s4x3t49
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 6
+https://tinyurl.com/yc4rttpx
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 7
+https://tinyurl.com/3597ajwc
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 8
+https://tinyurl.com/3bxt2p8h
 ===≠================================================
 
 ============="+Canais"==============================
