@@ -1,1 +1,1 @@
-* O streaming que é uma gracinha 😘
+* é o streaming brasileiro com conteúdo sob demanda e canais ao vivo totalmente grátis! Assista aos 10 canais ao vivo: novelas, humor, infantil e muito +.
