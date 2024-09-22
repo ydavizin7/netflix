@@ -82,17 +82,19 @@ https://tinyurl.com/3597ajwc
 #EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 8
 https://tinyurl.com/3bxt2p8h
 ===≠================================================
+#EXTINF:-1 tvg-id="Dot." tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8quZfY4tlddZSYcb28tspxhICsZUQvFPVbw&usqp=CAU.png"group-title="+Infantil | Dot.",Dot.
+https://tinyurl.com/b4fx9yr5
 
 ============="+Canais"==============================
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/+SBT_2024.svg/1024px-+SBTVD_2024.svg.png"group-title="TV Aberta",SBT
 https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/index.m3u8?ads.start=1?ads.w=384&ads.h=717&ads.cb=1726839025623&ads.ip=ads.ua=Mozilla/5.0 (Linux; Android 14; SM8650-AC/537.36 (KHTML, SBT
 #EXTINF:-1 tvg-id="TV Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="TV Aberta",TV Globo RJ
 http://pfsv.io/Marcellaag/Marcellaag/352.m3u8
-#EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_CazéTV.png"group-title="Esportes",Cazé TV
+#EXTINF:-1 tvg-id="Cazé TV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_CazéTV.png"group-title="+Esportes",Cazé TV
 https://dfd7c36b22444b338d40a48628d0ff8f.mediatailor.us-east-1.amazonaws.com/v1/manifest/86e0ca1639e63786b645c3182c3728dd0f3f1037/amagi-casetv/17fc3f45-e4e2-4167-95fa-d1f853790b04/0.m3u8?ads.cust_params=is_guest%253D0%2526content_id%253D3cfc4f63a7c34cdf996b7d5f49375f32%2526d2id%253D7d848816-328a-4520-b84b-17da51d1f6c8%2526rating%253DL%2526release_year%253D0%2526user_ppid%253D9089523445e2e0aa4f46cf6929d5475c%2526dsp_id%253D04d46b79b172b7c5af73fd8c425b58381f3a7cb7df451b37b58bb51eb483480b%2526content_provider%253DCAZETV%2526platform_id%253Ddesktop%2526site_id%253DMLB%2526stream_type%253DLIVE%2526is_first_visit%253D0%2526total_content_after_first_visit%253D0%2526vip%253D168.197.182.81&ads.correlator=1976587203&ads.description_url=https%253A%252F%252Fplay.mercadolibre.com.ar%252Fver%252F3cfc4f63a7c34cdf996b7d5f49375f32&ads.is_guest=0&ads.tfcd=0&ads.iu=%2F105773011%2FMELIPLAY-LIVE-BR&ads.ppid=9089523445e2e0aa4f46cf6929d5475c.m3u8
 #EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-3D0057A0C9-seeklogo.com.png"group-title="TV Aberta",TV Cultura
 http://conexaoonline.top:80/486034/key5f0e5x0L/234954.m3u8
-#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1024px-Gloobinho_logo.svg.png"group-title="Infantil",Gloobinho
+#EXTINF:-1 tvg-id="Gloobinho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1024px-Gloobinho_logo.svg.png"group-title="+Criança",Gloobinho
 http://conexaoonline.top:80/486034/key5f0e5x0L/2226.m3u8
 #EXTINF:-1 tvg-id="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1000px-Rede_Bandeirantes_logo_2011.svg.png"group-title="TV Aberta",Band
 http://conexaoonline.top:80/486034/key5f0e5x0L/35.m3u8
