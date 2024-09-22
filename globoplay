@@ -46,7 +46,7 @@ https://tinyurl.com/ytsnt3rs
 https://tinyurl.com/4xpux4t4
 #EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 12
 https://tinyurl.com/2e2mpw8k
-#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 13
+#EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 13 (² Temporada)
 https://tinyurl.com/rcey2v85
 #EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 14
 https://tinyurl.com/5ef5n6f6
@@ -64,10 +64,26 @@ https://tinyurl.com/3wf2x84p
 https://tinyurl.com/3ny2s5n4
 #EXTINF:-1 tvg-id="Os Outros" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaHjGaG5AZ6n6Kd8L4mpUi56kw7MxSRZhX4Q&usqp=CAU.png"group-title="Series | Os Outros",Os Outros EP 21
 https://tinyurl.com/463ydjp6
-========================"Hebe, a Cara da Coragem"============================
-#EXTINF:-1 tvg-id="Hebe, a Cara da Coragem" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc-ZApFzMnHidLvOjVlZNiFYZ-ECkc059LoZV7wkHrnfhgbnoSwNC7s9Um&s=10.png"group-title="Original +SBT | Hebe, a Cara da Coragem
-https://mais.sbt.com.br/vod/6359702742112?t=0
+========================"+Novelas"============================
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas"Mania de Você
+https://tinyurl.com/4nxenwd9
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas"Mania de Você EP 2
+https://tinyurl.com/3nkmebwm
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas"Mania de Você EP 3
+https://tinyurl.com/2mmpbhkn
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas"Mania de Você EP 4
+https://tinyurl.com/4nspt5ew
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas"Mania de Você EP 5
+https://tinyurl.com/2s4x3t49
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas"Mania de Você EP 6
+https://tinyurl.com/yc4rttpx
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas"Mania de Você EP 7
+https://tinyurl.com/3597ajwc
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas"Mania de Você EP 8
+https://tinyurl.com/3bxt2p8h
 ===≠================================================
+
+============="+Canais"================================
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/+SBT_2024.svg/1024px-+SBTVD_2024.svg.png"group-title="TV Aberta",SBT
 https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/index.m3u8?ads.start=1?ads.w=384&ads.h=717&ads.cb=1726839025623&ads.ip=ads.ua=Mozilla/5.0 (Linux; Android 14; SM8650-AC/537.36 (KHTML, SBT
 #EXTINF:-1 tvg-id="TV Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="TV Aberta",TV Globo RJ
