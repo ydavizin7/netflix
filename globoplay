@@ -2,9 +2,8 @@
 ===============================================
 https://www.mfcopenapi.info/open/api/playlist/videos/v1
 ===============================================
-#EXTINF:-1 tvg-id="Bob Esponja - O Filme (2004)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDvmwfHWBisCZqV98gjmOeuuwpu3co5sBcfQ&usqp=CAU.png"group-title="Animação",Bob Esponja - O Filme (2004)
-https://encurtador.com.br/k7O4d
-
+#EXTINF:-1 tvg-id="Valente (2012)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKkkcxeZOBFWHAUifWlkkRKA4L2zwbXhGKs0wo5aHf-aalvyF9Pd0STs&s=10.png"group-title="Animação",Valente (2012)
+https://tinyurl.com/5n99b96h
 ===============================================
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/+SBT_2024.svg/1024px-+SBTVD_2024.svg.png"group-title="TV Aberta",SBT
 https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/index.m3u8?ads.start=1?ads.w=384&ads.h=717&ads.cb=1726839025623&ads.ip=ads.ua=Mozilla/5.0 (Linux; Android 14; SM8650-AC/537.36 (KHTML, SBT
