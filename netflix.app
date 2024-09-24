@@ -154,12 +154,12 @@ https://tinyurl.com/4n4yacb6
 https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/index.m3u8?ads.start=1?ads.w=384&ads.h=717&ads.cb=1726839025623&ads.ip=ads.ua=Mozilla/5.0 (Linux; Android 14; SM8650-AC/537.36 (KHTML, SBT
 #EXTINF:-1 tvg-id="TV Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="+Canais",TV Globo RJ
 http://pfsv.io:80/969466515/969466/352.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/400px-ESPN_wordmark.svg.png"group-title="+Canais",ESPN
-http://pfsv.io:80/969466515/969466/250.m3u8
 #EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-3D0057A0C9-seeklogo.com.png"group-title="+Canais",TV Cultura
 http://conexaoonline.top:80/486034/key5f0e5x0L/234908.m3u8
 #EXTINF:-1 tvg-id="Gloobinho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1024px-Gloobinho_logo.svg.png"group-title="+Criança",Gloobinho
 http://conexaoonline.top:80/486034/key5f0e5x0L/2226.m3u8
 #EXTINF:-1 tvg-id="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1000px-Rede_Bandeirantes_logo_2011.svg.png"group-title="+Canais",Band
 http://conexaoonline.top:80/486034/key5f0e5x0L/35.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/400px-ESPN_wordmark.svg.png"group-title="+Canais",ESPN
+http://pfsv.io:80/969466515/969466/250.m3u8
 =======================
