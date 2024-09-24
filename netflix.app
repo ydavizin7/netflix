@@ -1,8 +1,8 @@
-" O Streaming que e uma gracinha 😘 " conteúdo novo todos dias! 
+" Assista onde quiser, quando quiser. 🐈‍⬛ "
 ===============================================
 https://www.mfcopenapi.info/open/api/playlist/videos/v1
 =====================(+ Filmes)==========================
-#EXTINF:-1 tvg-id="Sempre atualize sua Netflix 🏗️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/400px-Netflix_2015_logo.svg.png"group-title="Importante 🏗️",Sempre atualize sua netflix 🏗️
+#EXTINF:-1 tvg-id="Sempre atualize sua Netflix 🏗️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/400px-Netflix_2015_logo.svg.png"group-title="Importante 🏗️",Sempre atualize sua netflix pelo App 🧤
 https://tinyurl.com/mv74exsd
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #EXTINF:-1 tvg-id="Valente (2012)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKkkcxeZOBFWHAUifWlkkRKA4L2zwbXhGKs0wo5aHf-aalvyF9Pd0STs&s=10.png"group-title="+Animação",Valente (2012)
@@ -19,7 +19,7 @@ https://tinyurl.com/ytfukatd
 https://tinyurl.com/yht39vtx
 #EXTINF:-1 tvg-id="O Homem Ideal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWLZLC_ro4zy3OI0JCNgteUlCnoHnzCqst87_JC9_fSN3l2YzBh5Ms_08&s=10.png"group-title="+Romance", O Homem Ideal
 https://tinyurl.com/y4p72h5e
-#EXTINF:-1 tvg-id="SPY x FAMILY - CODE: WHITE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjyg0TnII6XgGKiDtD_waXu_6iU_ISz9yxJONAxw_BNlMDWpTS-huDJMIL&s=10.png"group-title="+Anime",SPY x FAMILY - CODE: WHITE
+#EXTINF:-1 tvg-id="SPY x FAMILY - CODE: WHITE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjyg0TnII6XgGKiDtD_waXu_6iU_ISz9yxJONAxw_BNlMDWpTS-huDJMIL&s=10.png"group-title="+Animes",SPY x FAMILY - CODE: WHITE
 https://tinyurl.com/22uuh6k5
 ======================(+Series)=========================
 #EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="+Series | Solar Opposites",Solar Opposites
@@ -98,9 +98,25 @@ https://tinyurl.com/yc4rttpx
 https://tinyurl.com/3597ajwc
 #EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 8
 https://tinyurl.com/3bxt2p8h
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 9
+https://tinyurl.com/v73s7552
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 10
+https://tinyurl.com/46bheatn
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 11
+https://tinyurl.com/4642rw44
+#EXTINF:-1 tvg-id="Mania de Você" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Mania_de_você.jpg"group-title="+Novelas | Mania de Você",Mania de Você EP 12
+https://tinyurl.com/3y2k6ku9
 ====================================================
 #EXTINF:-1 tvg-id="No Rancho Fundo" tvg-logo="https://s2-gshow.glbimg.com/CBowiImqpxH3sgK4IFP09N2WNKg=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/V/B/NltHPuSkWAv5ROSlAVHQ/600x213.png"group-title="+Novelas | No Rancho Fundo", No Rancho Fundo EP 132
 https://tinyurl.com/4me4hw56
+#EXTINF:-1 tvg-id="No Rancho Fundo" tvg-logo="https://s2-gshow.glbimg.com/CBowiImqpxH3sgK4IFP09N2WNKg=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/V/B/NltHPuSkWAv5ROSlAVHQ/600x213.png"group-title="+Novelas | No Rancho Fundo", No Rancho Fundo EP 133
+https://tinyurl.com/5n8dzv52
+#EXTINF:-1 tvg-id="No Rancho Fundo" tvg-logo="https://s2-gshow.glbimg.com/CBowiImqpxH3sgK4IFP09N2WNKg=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/V/B/NltHPuSkWAv5ROSlAVHQ/600x213.png"group-title="+Novelas | No Rancho Fundo", No Rancho Fundo EP 134
+https://tinyurl.com/yt8ecrdc
+#EXTINF:-1 tvg-id="No Rancho Fundo" tvg-logo="https://s2-gshow.glbimg.com/CBowiImqpxH3sgK4IFP09N2WNKg=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/V/B/NltHPuSkWAv5ROSlAVHQ/600x213.png"group-title="+Novelas | No Rancho Fundo", No Rancho Fundo EP 135
+https://tinyurl.com/3tarcn64
+#EXTINF:-1 tvg-id="No Rancho Fundo" tvg-logo="https://s2-gshow.glbimg.com/CBowiImqpxH3sgK4IFP09N2WNKg=/600x0/filters:quality(50)/https://i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2024/V/B/NltHPuSkWAv5ROSlAVHQ/600x213.png"group-title="+Novelas | No Rancho Fundo", No Rancho Fundo EP 136
+https://tinyurl.com/34t4vrsp
 ===≠================================================
 #EXTINF:-1 tvg-id="Dot." tvg-logo="https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcloudinary.stg.maissbt.com%2Fdspukf8z7%2Fimage%2Ffetch%2Fe_trim%2Cc_fit%2Ch_118%2Cw_600%2Fhttps%3A%2F%2Fd32pdo5ix91w0e.cloudfront.net%2Fparceiros%2Fmultiplatino%2Fdot%2Fdot_logo_standard.png&w=1200&q=75.png"group-title="+Infantil | Dot.",1. Medo de Trovão
 https://tinyurl.com/b4fx9yr5
