@@ -1,1 +1,3 @@
-* é o streaming com conteúdo sob demanda e canais ao vivo totalmente grátis! Assista aos 10 canais ao vivo: novelas, humor, infantil e muito +.
+* Como Assistir?b🎞️
+* Para começar a assitir baixe o app "iMPlayer" Disponivel na 'Play Store' e 'App Store.' 🌬️
+* https://abre.ai/comecaraassitir 📺
