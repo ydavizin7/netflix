@@ -15,6 +15,10 @@ https://tinyurl.com/3pctfbyv
 https://tinyurl.com/yvzwkpcv
 #EXTINF:-1 tvg-id="Brasil Visto do Alto" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/333ed5e58dc7576e19c6c4b96a21e0bd3021df14b863e1ff38cf48bb2fbec4d9._SX1080_FMjpg_.jpg"group-title="+Documentarios",Brasil Visto do Alto
 https://tinyurl.com/ytfukatd
+#EXTINF:-1 tvg-id="Missão Cruzada" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgo079lVsgAc-Cuf-QCwrMV8UCyom6P6KeUQ&s.png"group-title="+Ação", Missão Cruzada
+https://tinyurl.com/yht39vtx
+#EXTINF:-1 tvg-id="O Homem Ideal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWLZLC_ro4zy3OI0JCNgteUlCnoHnzCqst87_JC9_fSN3l2YzBh5Ms_08&s=10.png"group-title="+Romance", O Homem Ideal
+https://tinyurl.com/y4p72h5e
 ======================(+Series)=========================
 #EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="+Series | Solar Opposites",Solar Opposites
 https://tinyurl.com/s4yjn986
