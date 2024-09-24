@@ -1,8 +1,8 @@
-" é o streaming com conteúdo sob demanda e canais ao vivo totalmente grátis! Assista aos 10 canais ao vivo: novelas, humor, infantil e muito +. 😘 "
+" O Streaming que e uma gracinha 😘 " conteúdo novo todos dias! 
 ===============================================
 https://www.mfcopenapi.info/open/api/playlist/videos/v1
 =====================(+ Filmes)==========================
-#EXTINF:-1 tvg-id="Sempre atualize sua Netflix 🏗️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/400px-Netflix_2015_logo.svg.png"group-title="Importante 🏗️",Sempre atualize sua Netflix 🏗️
+#EXTINF:-1 tvg-id="Sempre atualize sua Netflix 🏗️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/400px-Netflix_2015_logo.svg.png"group-title="Importante 🏗️",Sempre atualize sua netflix 🏗️
 https://tinyurl.com/mv74exsd
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #EXTINF:-1 tvg-id="Valente (2012)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKkkcxeZOBFWHAUifWlkkRKA4L2zwbXhGKs0wo5aHf-aalvyF9Pd0STs&s=10.png"group-title="+Animação",Valente (2012)
@@ -19,6 +19,8 @@ https://tinyurl.com/ytfukatd
 https://tinyurl.com/yht39vtx
 #EXTINF:-1 tvg-id="O Homem Ideal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWLZLC_ro4zy3OI0JCNgteUlCnoHnzCqst87_JC9_fSN3l2YzBh5Ms_08&s=10.png"group-title="+Romance", O Homem Ideal
 https://tinyurl.com/y4p72h5e
+#EXTINF:-1 tvg-id="SPY x FAMILY - CODE: WHITE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjyg0TnII6XgGKiDtD_waXu_6iU_ISz9yxJONAxw_BNlMDWpTS-huDJMIL&s=10.png"group-title="+Anime",SPY x FAMILY - CODE: WHITE
+https://tinyurl.com/22uuh6k5
 ======================(+Series)=========================
 #EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="+Series | Solar Opposites",Solar Opposites
 https://tinyurl.com/s4yjn986
@@ -132,16 +134,16 @@ https://tinyurl.com/yenawap4
 #EXTINF:-1 tvg-id="Silvio Santos Vale Mais Que Dinheiro"tvg-logo="https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcloudinary.stg.maissbt.com%2Fdspukf8z7%2Fimage%2Ffetch%2Fe_trim%2Cc_fit%2Ch_118%2Cw_600%2Fhttps%3A%2F%2Fd32pdo5ix91w0e.cloudfront.net%2Facervo%2Foriginais%2Fsilvio_santos_vale_mais_do_que_dinheiro%2Fss_vmqd_logo_standard.png&w=1200&q=75.png"group-title="Original +SBT | Silvio Santos Vale Mais Que Dinheiro", Parte 4
 https://tinyurl.com/4n4yacb6
 ======================"+Canais"=====≠========================
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/+SBT_2024.svg/1024px-+SBTVD_2024.svg.png"group-title="TV Aberta",SBT
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/+SBT_2024.svg/1024px-+SBTVD_2024.svg.png"group-title="+Canais",SBT
 https://02a77e991da2431691c18a84ddc6fdfd.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Titan/index.m3u8?ads.start=1?ads.w=384&ads.h=717&ads.cb=1726839025623&ads.ip=ads.ua=Mozilla/5.0 (Linux; Android 14; SM8650-AC/537.36 (KHTML, SBT
-#EXTINF:-1 tvg-id="TV Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="TV Aberta",TV Globo RJ
+#EXTINF:-1 tvg-id="TV Globo RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png"group-title="+Canais",TV Globo RJ
 http://pfsv.io:80/969466515/969466/352.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/400px-ESPN_wordmark.svg.png"group-title="+Esportes",ESPN
 http://pfsv.io:80/969466515/969466/250.m3u8
-#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-3D0057A0C9-seeklogo.com.png"group-title="TV Aberta",TV Cultura
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-3D0057A0C9-seeklogo.com.png"group-title="+Canais",TV Cultura
 http://conexaoonline.top:80/486034/key5f0e5x0L/234908.m3u8
 #EXTINF:-1 tvg-id="Gloobinho" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1024px-Gloobinho_logo.svg.png"group-title="+Criança",Gloobinho
 http://conexaoonline.top:80/486034/key5f0e5x0L/2226.m3u8
-#EXTINF:-1 tvg-id="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1000px-Rede_Bandeirantes_logo_2011.svg.png"group-title="TV Aberta",Band
+#EXTINF:-1 tvg-id="Band" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1000px-Rede_Bandeirantes_logo_2011.svg.png"group-title="+Canais",Band
 http://conexaoonline.top:80/486034/key5f0e5x0L/35.m3u8
 =======================
