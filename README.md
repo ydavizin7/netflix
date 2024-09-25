@@ -5,5 +5,5 @@
    > para ver info. de um filme/serie, pesquise pela sipnose. :)
 
     > Ex. "A Cabana Sipnose"
-> Para ver a programação dos canais disponíveis:
+> Para ver a programação dos canais 𝗱𝗶𝘀𝗽𝗼𝗻𝗶𝘃𝗲𝗶𝘀:
 https://abre.ai/programacaocanais 🦊
