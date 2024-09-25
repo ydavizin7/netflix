@@ -1,6 +1,6 @@
-* Como Assistir? 📃
+* Como 𝖺𝗌𝗌𝗂𝗌𝗍𝗂𝗋? 📃
 * Para começar a assistir baixe o app "iMPlayer" Disponivel na 'Play Store' e 'App Store.' 🌬️
-*  > Link para baixar: https://bit.ly/3XynCi9
+*  > Link para 𝗯𝗮𝗶𝘅𝗮𝗿: https://bit.ly/3XynCi9
    
    > para ver info. de um filme/serie, pesquise pela sipnose. :)
 
