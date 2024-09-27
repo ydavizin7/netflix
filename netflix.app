@@ -21,6 +21,8 @@ https://tinyurl.com/yht39vtx
 https://tinyurl.com/y4p72h5e
 #EXTINF:-1 tvg-id="SPY x FAMILY - CODE: WHITE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjyg0TnII6XgGKiDtD_waXu_6iU_ISz9yxJONAxw_BNlMDWpTS-huDJMIL&s=10.png"group-title="+Animes",SPY x FAMILY - CODE: WHITE
 https://tinyurl.com/22uuh6k5
+#EXTINF:-1 tvg-id="Divertida Mente 2" tvg-logo="https://www.digitalgratis.com.br/wp-content/uploads/2024/06/Logo-Divertidamente-2-PNG-1536x832.png"group-title="+Animação",Divertida Mente 2
+https://tinyurl.com/3wzd329n
 ======================(+Series)=========================
 #EXTINF:-1 tvg-id="Solar Opposites" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1O4ZadF42UDuIF--q5ciVX_4jN3heqYxXw&usqp=CAU.png"group-title="+Series | Solar Opposites",Solar Opposites
 https://tinyurl.com/s4yjn986
