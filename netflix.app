@@ -141,7 +141,18 @@ https://tinyurl.com/y4m3zcs6
 #EXTINF:-1 tvg-id="Dot." tvg-logo="https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcloudinary.stg.maissbt.com%2Fdspukf8z7%2Fimage%2Ffetch%2Fe_trim%2Cc_fit%2Ch_118%2Cw_600%2Fhttps%3A%2F%2Fd32pdo5ix91w0e.cloudfront.net%2Fparceiros%2Fmultiplatino%2Fdot%2Fdot_logo_standard.png&w=1200&q=75.png"group-title="+Infantil | Dot.",10. O melhor amigo de um cão
 https://tinyurl.com/y4m3zcs6
 ===================================================[
-
+#EXTINF:-1 tvg-id="O Maravilhoso Mundo do Mickey Mouse" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/7/7b/O_Maravilhoso_Mundo_de_Mickey_Mouse_-_Confusões_Nostálgicas.jpeg/revision/latest?cb=20230728131730&path-prefix=pt-br"group-title="+Animação | O Maravilhoso Mundo do Mickey Mouse ",1. O Maravilhoso Mundo do Mickey Mouse
+https://tinyurl.com/53vfzuzv
+#EXTINF:-1 tvg-id="O Maravilhoso Mundo do Mickey Mouse" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/7/7b/O_Maravilhoso_Mundo_de_Mickey_Mouse_-_Confusões_Nostálgicas.jpeg/revision/latest?cb=20230728131730&path-prefix=pt-br"group-title="+Animação | O Maravilhoso Mundo do Mickey Mouse ",2. O Maravilhoso Mundo do Mickey Mouse
+https://tinyurl.com/2f4733p2
+#EXTINF:-1 tvg-id="O Maravilhoso Mundo do Mickey Mouse" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/7/7b/O_Maravilhoso_Mundo_de_Mickey_Mouse_-_Confusões_Nostálgicas.jpeg/revision/latest?cb=20230728131730&path-prefix=pt-br"group-title="+Animação | O Maravilhoso Mundo do Mickey Mouse ",3. O Maravilhoso Mundo do Mickey Mouse
+https://tinyurl.com/4xf4kuww
+#EXTINF:-1 tvg-id="O Maravilhoso Mundo do Mickey Mouse" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/7/7b/O_Maravilhoso_Mundo_de_Mickey_Mouse_-_Confusões_Nostálgicas.jpeg/revision/latest?cb=20230728131730&path-prefix=pt-br"group-title="+Animação | O Maravilhoso Mundo do Mickey Mouse ",4. O Maravilhoso Mundo do Mickey Mouse
+https://tinyurl.com/yju8w2ys
+#EXTINF:-1 tvg-id="O Maravilhoso Mundo do Mickey Mouse" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/7/7b/O_Maravilhoso_Mundo_de_Mickey_Mouse_-_Confusões_Nostálgicas.jpeg/revision/latest?cb=20230728131730&path-prefix=pt-br"group-title="+Animação | O Maravilhoso Mundo do Mickey Mouse ",5. O Maravilhoso Mundo do Mickey Mouse
+https://tinyurl.com/ywuwapzb
+#EXTINF:-1 tvg-id="O Maravilhoso Mundo do Mickey Mouse" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/7/7b/O_Maravilhoso_Mundo_de_Mickey_Mouse_-_Confusões_Nostálgicas.jpeg/revision/latest?cb=20230728131730&path-prefix=pt-br"group-title="+Animação | O Maravilhoso Mundo do Mickey Mouse ",6. O Maravilhoso Mundo do Mickey Mouse
+https://tinyurl.com/ydv38vds
 ====================================================
 #EXTINF:-1 tvg-id="Silvio Santos Vale Mais Que Dinheiro" tvg-logo="https://mais.sbt.com.br/_next/image?url=https%3A%2F%2Fcloudinary.stg.maissbt.com%2Fdspukf8z7%2Fimage%2Ffetch%2Fe_trim%2Cc_fit%2Ch_118%2Cw_600%2Fhttps%3A%2F%2Fd32pdo5ix91w0e.cloudfront.net%2Facervo%2Foriginais%2Fsilvio_santos_vale_mais_do_que_dinheiro%2Fss_vmqd_logo_standard.png&w=1200&q=75.png"group-title="Original +SBT | Silvio Santos Vale Mais Que Dinheiro", Parte 1
 https://tinyurl.com/45nruzup
